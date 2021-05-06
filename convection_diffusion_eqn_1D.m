@@ -41,7 +41,7 @@ hold on
 plot(x, phi, 'b', 'LineWidth', 1)
 xlabel('x')
 ylabel('y')
-legend('Exact Solution', 'Differencing Schemes')
+legend('Exact Solution', 'Differencing Scheme')
 
     
     
